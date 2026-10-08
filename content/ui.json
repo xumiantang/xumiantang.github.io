@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "首页",
+    "poetry": "詩詞",
+    "novel": "小説",
+    "essays": "随笔",
+    "about": "關於"
+  },
+  "home": {
+    "tocKicker": "menu",
+    "tocTitle": "目 录",
+    "latestKicker": "recently",
+    "latestTitle": "最近写的",
+    "latestLink": "去黑板上看看全部",
+    "adminLink": "管理",
+    "visitorPrefix": "你是第",
+    "visitorSuffix": "位访客，欢迎您"
+  },
+  "poetry": {
+    "kicker": "",
+    "title": "詩詞",
+    "summary": "共 {n} 首",
+    "filterAll": "全部",
+    "scrollHint": "滚动鼠标横向翻阅 · 点开便签读全篇"
+  },
+  "poem": {
+    "toggle": "注 · 賞",
+    "notePrefix": "注 —",
+    "commentPrefix": "賞 — "
+  },
+  "novel": {
+    "kicker": "",
+    "title": "小説",
+    "summary": "{total} 本 · {unlocked} 本已解锁",
+    "relock": "全部重新上锁",
+    "openLabel": "ひらく",
+    "closeBook": "合上这本书",
+    "lockedTitle": "未題",
+    "chapterCount": "{n} 章",
+    "shelfHint": "点击书脊 · 每本书一把钥匙 · 正文加密存储"
+  },
+  "lock": {
+    "kicker": "この本には鍵がかかっています",
+    "title": "需要钥匙",
+    "hintPrefix": "提示 · ",
+    "placeholder": "パスワード",
+    "error": "钥匙不对，再想想",
+    "submit": "開 く"
+  },
+  "chapter": {
+    "prev": "上一章",
+    "next": "下一章"
+  },
+  "essays": {
+    "kicker": "",
+    "title": "随笔",
+    "summary": "共 {n} 篇",
+    "empty": "还没有随笔。",
+    "add": "写一篇",
+    "readAll": "读全文 →"
+  },
+  "about": {
+    "kicker": "about",
+    "title": "關於",
+    "signLabel": "署名",
+    "footerNote": ""
+  }
+}

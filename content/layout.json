@@ -1,0 +1,27 @@
+{
+  "blocks": {
+    "home.name": {
+      "scale": 0.9,
+      "dx": 56,
+      "dy": -3
+    },
+    "home.sub": {
+      "dx": 1,
+      "dy": 26
+    },
+    "home.tagline": {
+      "scale": 1.25,
+      "dx": -101,
+      "dy": -4
+    },
+    "novel.header": {
+      "scale": 1
+    },
+    "about.header": {
+      "scale": 1
+    },
+    "home.toc": {
+      "scale": 1
+    }
+  }
+}
